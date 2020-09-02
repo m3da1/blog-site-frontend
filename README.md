@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # my-blog-app
 
 ## Project setup
