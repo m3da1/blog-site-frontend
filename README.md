@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # my-blog-app
 
 ## Project setup
@@ -22,3 +23,7 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# blog-site-frontend
+Front end for the blog management
+>>>>>>> 91860ab6d9b9afa03b49eedba23b7b6ebdb244da
